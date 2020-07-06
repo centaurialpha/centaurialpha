@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Twitter: [https://twitter.com/_alfacentauri](https://twitter.com/_alfacentauri)
+- Personal website: [https://centaurialpha.github.io](https://centaurialpha.github.io)
