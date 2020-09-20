@@ -11,3 +11,5 @@
 - :man_technologist: [ninja-ide](http://ninja-ide.org) main developer.
 - :school: My personal project is [Pireal](https://github.com/centaurialpha/pireal), a Relational Algebra interpreter.
 - :telescope: I am not an astronomer but I have a telescope and I love to observe Saturn.
+
+:heart: `All donations to my projects go towards helping abuelitos and dogs on the street` :heart:
