@@ -8,6 +8,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_alfacentauri/)](https://www.twitter.com/_alfacentauri/)
 
 - :artificial_satellite: Currently working on [Satellogic](https://satellogic.com) building satellites software with Python :heart:
-- 🐾 [MeAdoptas](https://meadoptas.app) collaborator.
+- 🐾 [MeAdoptas](https://meadoptas.app) core developer.
 - :man_technologist: [ninja-ide](http://ninja-ide.org) main developer.
 - :school: My personal project is [Pireal](https://github.com/centaurialpha/pireal), a Relational Algebra interpreter.
