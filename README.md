@@ -1,13 +1,20 @@
-### Hi there 👋 I'm Gabriel
+<div align="center">
+  <strong>Hi there 👋 I'm gabox</strong>
+</div>
+<br>
 
+<div align="center">
+  
 ![](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+
+</div>
 
 ----
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acostadariogabriel@gmail.com)](mailto:acostadariogabriel@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_alfacentauri/)](https://www.twitter.com/_alfacentauri/)
-
-- :artificial_satellite: Currently working on [Satellogic](https://satellogic.com) building satellites software with Python :heart:
-- 🐾 [MeAdoptas](https://meadoptas.app) core developer.
-- :man_technologist: [ninja-ide](http://ninja-ide.org) main developer.
-- :school: My personal project is [Pireal](https://github.com/centaurialpha/pireal), a Relational Algebra interpreter.
+<p align="center">
+<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
